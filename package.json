@@ -1,0 +1,22 @@
+{
+  "name": "mobile-friendly-test",
+  "version": "1.0.0",
+  "description": "Google's Mobile Friendly Test API for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmontalvoriv/mobile-friendly-test.git"
+  },
+  "author": "Gabriel Montalvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmontalvoriv/mobile-friendly-test/issues"
+  },
+  "homepage": "https://github.com/gmontalvoriv/mobile-friendly-test#readme",
+  "dependencies": {
+    "request": "2.79.0"
+  }
+}
