@@ -1,3 +1,5 @@
+## ⚠️ This repository is no longer maintained.
+
 # mobile-friendly-test
 
 > Check if a specific URL is mobile friendly
